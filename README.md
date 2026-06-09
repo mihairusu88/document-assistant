@@ -74,6 +74,8 @@ There is no test suite — `npm run typecheck` and `npm run lint` are the correc
 
 ### Dark theme
 
+![Dark theme — empty state with the pipeline drawer](docs/screenshots/dark-empty.png)
+
 ![Dark theme — conversation with the RAG pipeline drawer showing every step completed](docs/screenshots/dark-chat.png)
 
 ### Light theme
